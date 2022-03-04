@@ -29,6 +29,13 @@
   background-color: #000;
 }
 
+#navbar-container ul li a{
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
 #onpage{
   text-decoration: underline overline;
 }
