@@ -1,0 +1,13 @@
+#main-navbar{
+  background-color: blue;
+}
+
+#navbar-container{
+  float:left;
+  width: 100%;
+  position: relative;
+}
+
+#onpage{
+  text-decoration: underline overline;
+}
